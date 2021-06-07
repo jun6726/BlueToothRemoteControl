@@ -11,6 +11,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //왜 잔디가 안깔리지?
+
+        int a = 1;
 
     }
 }
